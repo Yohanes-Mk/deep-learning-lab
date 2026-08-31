@@ -1,0 +1,9 @@
+.venv/
+.DS_Store
+**/.DS_Store
+.ipynb_checkpoints/
+~$*.docx
+
+# Course-provided material — not mine to publish
+**/Supporting Docs/
+**/Lecture Transcripts/
