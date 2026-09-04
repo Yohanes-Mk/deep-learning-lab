@@ -1,12 +1,12 @@
 # Deep Learning Lab
 
-Coursework and hands-on work from **Neural Network and Deep Learning** (CSCI 441/541),
-Fall 2026.
+Active coursework and hands-on work from **Neural Network and Deep Learning** (CSCI 441/541),
+Fall 2026. This repository evolves with the semester and is organized as a record of original course work, not as a production library.
 
 Concepts and techniques in deep learning, exploring both theoretical foundations and
-practical applications — neural network models and deep learning methods for
+practical applications: neural network models and deep learning methods for
 complex real-world problems, with hands-on experience using state-of-the-art tools
-and frameworks. Topics span the course include:
+and frameworks. Course topics include:
 
 - Designing, training, and applying neural networks for data analysis
 - Regularization techniques (e.g. dropout) for generalization and overfitting
